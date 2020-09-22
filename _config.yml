@@ -54,6 +54,14 @@ topics:
   - name: Superconductivity
     web_url: https://home.cern/science/engineering/superconductivity
     image_url: https://singularityhub.com/wp-content/uploads/2018/05/search-high-temperature-superconductors-superconducting-223876228.jpg
+    
+  - name: Machine Learning
+    web_url: https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/
+    image_url: https://s3.amazonaws.com/prod-www-blackline-com/blog/wp-content/uploads/2019/01/29163118/A-Conversation-With-BlackLines-Machine-Learning-Experts.jpg
+
+  - name: Natural Language Processing
+    web_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/
+    image_url: https://s3.amazonaws.com/prod-www-blackline-com/blog/wp-content/uploads/2019/01/29163118/A-Conversation-With-BlackLines-Machine-Learning-Experts.jpg
 
   - name: Blender
     web_url: https://www.blender.org/
